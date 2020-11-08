@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Okta_SAML_Example", "Okta_SAML_Example.csproj", "{786E8F0B-B603-487D-ABEA-AE93E51225F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternalSystem", "..\InternalSystem\InternalSystem.csproj", "{12F6F73D-11ED-4735-932A-93625964D77A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{786E8F0B-B603-487D-ABEA-AE93E51225F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786E8F0B-B603-487D-ABEA-AE93E51225F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786E8F0B-B603-487D-ABEA-AE93E51225F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786E8F0B-B603-487D-ABEA-AE93E51225F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F6F73D-11ED-4735-932A-93625964D77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F6F73D-11ED-4735-932A-93625964D77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F6F73D-11ED-4735-932A-93625964D77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F6F73D-11ED-4735-932A-93625964D77A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1624B692-C5F5-4CC6-AAB2-B8FB06B6E650}
+	EndGlobalSection
+EndGlobal
